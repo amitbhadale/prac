@@ -1,0 +1,28 @@
+{
+  "reportingOrganization": "Reporting Organization FRENCH",
+  "reportingEntityNumber": "Reporting Entity Number FRENCH",
+  "submittingReportingEntityNumber": "Submitting Reporting Entity Number FRENCH",
+  "reportingEntityReportReferenceNumber": "Reporting Entity Report Reference Number  FRENCH",
+  "activitySector": "Activity Sector FRENCH",
+  "reportType": "Report Type  FRENCH",
+  "contactIdentifier": "Contact Identifier  FRENCH",
+  "surname": "Surname FRENCH",
+  "givenName": "Given Name FRENCH",
+  "otherInitial": "Other/Initial FRENCH",
+  "telephoneNumber": "Telephone Number FRENCH",
+  "extension": "Extension FRENCH",
+  "emailAddress": "Email Address FRENCH",
+  "ministerialDirective": "Ministerial Directiv FRENCH",
+
+  "selectSubject": "Select Subject FRENCH",
+  "subjectType": "Subject Type FRENCH",
+  "alias": "Alias FRENCH",
+  "dob": "Date of Birth FRENCH",
+  "partyKey": "Party Key FRENCH",
+  "extention": "Extension FRENCH",
+  "occupation": "Occupation FRENCH",
+  "countryOfResidence": "Country of Residence FRENCH",
+  "countryOfCitizenship": "Country of Citizenship FRENCH",
+  "addressType": "Address Type FRENCH",
+  "nameOfEmployer": "Name of Employe FRENCHr"
+}
